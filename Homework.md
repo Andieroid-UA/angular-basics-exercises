@@ -1,3 +1,5 @@
+![What we are building](image-1.png)
+
 ### Exercise 1: Introduction and Setup
 
 1. Modify the default content of the app.component.html to display "Welcome to Angular Basics!".
